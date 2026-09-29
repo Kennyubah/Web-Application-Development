@@ -1,5 +1,5 @@
-# Task-3-Web-Application-Development
-# Task 3 - CSS3 Basics
+-Web-Application-Development
+-CSS3 Basics
 
 This repository contains the HTML and CSS files for Web Application Development Task 3.
 
